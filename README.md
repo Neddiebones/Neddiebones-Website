@@ -1,2 +1,2 @@
 # Neddiebones-Website
-Simple website for my youtube channel.
+This website was vibe-coding cause im lazy asf
